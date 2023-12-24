@@ -1,2 +1,2 @@
-# ESP32_VSCode-Template
-includes all things for running a new project
+# ESP32 VSCode Platformio Template
+my fast template for arduino/platformio/vscode
