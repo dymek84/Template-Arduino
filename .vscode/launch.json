@@ -12,9 +12,9 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "c:/Users/konta/Documents/PlatformIO/Projects/ESP32_VSCode-Template/.pio/build/az-delivery-devkit-v4/firmware.elf",
-            "projectEnvName": "az-delivery-devkit-v4",
-            "toolchainBinDir": "C:/Users/konta/.platformio/packages/toolchain-xtensa32/bin",
+            "executable": "C:/Users/dymek/Documents/GitHub/Template-Arduino/.pio/build/lolin32_lite/firmware.elf",
+            "projectEnvName": "lolin32_lite",
+            "toolchainBinDir": "C:/Users/dymek/.platformio/packages/toolchain-xtensa-esp32@8.4.0+2021r2-patch5/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "preLaunchTask": {
                 "type": "PlatformIO",
@@ -25,18 +25,18 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "c:/Users/konta/Documents/PlatformIO/Projects/ESP32_VSCode-Template/.pio/build/az-delivery-devkit-v4/firmware.elf",
-            "projectEnvName": "az-delivery-devkit-v4",
-            "toolchainBinDir": "C:/Users/konta/.platformio/packages/toolchain-xtensa32/bin",
+            "executable": "C:/Users/dymek/Documents/GitHub/Template-Arduino/.pio/build/lolin32_lite/firmware.elf",
+            "projectEnvName": "lolin32_lite",
+            "toolchainBinDir": "C:/Users/dymek/.platformio/packages/toolchain-xtensa-esp32@8.4.0+2021r2-patch5/bin",
             "internalConsoleOptions": "openOnSessionStart"
         },
         {
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
-            "executable": "c:/Users/konta/Documents/PlatformIO/Projects/ESP32_VSCode-Template/.pio/build/az-delivery-devkit-v4/firmware.elf",
-            "projectEnvName": "az-delivery-devkit-v4",
-            "toolchainBinDir": "C:/Users/konta/.platformio/packages/toolchain-xtensa32/bin",
+            "executable": "C:/Users/dymek/Documents/GitHub/Template-Arduino/.pio/build/lolin32_lite/firmware.elf",
+            "projectEnvName": "lolin32_lite",
+            "toolchainBinDir": "C:/Users/dymek/.platformio/packages/toolchain-xtensa-esp32@8.4.0+2021r2-patch5/bin",
             "internalConsoleOptions": "openOnSessionStart",
             "loadMode": "manual"
         }
