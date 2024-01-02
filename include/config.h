@@ -80,3 +80,11 @@ AsyncEventSource events("/events");
 const char *PARAM_MESSAGE = "message";
 
 #endif
+
+#define TFT_MISO  19  // Automatically assigned with ESP8266 if not defined
+#define TFT_MOSI  23  // Automatically assigned with ESP8266 if not defined
+#define TFT_SCLK  18  // Automatically assigned with ESP8266 if not defined
+
+#define TFT_CS    5  // Chip select control pin D8
+#define TFT_DC    13  // Data Command control pin
+#define TFT_RST   12  // Reset pin (could connect to NodeMCU RST, see next line)
